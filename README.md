@@ -2,7 +2,7 @@
 Computational Mapping of the ARF6 Interactome: A Graph-Theoretic Analysis of
 Cellular Signaling Hubs — Repository Documentation
 
-Adidev Chanchlani
+Adidev C
 
 ================================================================================
 
